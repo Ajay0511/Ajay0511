@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 * :star: Reach me at :-
     * Linkedin :- https://www.linkedin.com/in/ajay-arora-b082651a6/
     * Gmail :- aroraajay0511@gmail.com
-* :star: Other Intersts :- Movies and Web Series.
+* :star: Other Interests :- Movies and Web Series.
 
 
