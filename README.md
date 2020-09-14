@@ -1,8 +1,9 @@
 # Ajay Arora
+<p align='center'>
 [![linkedin](https://github.com/Ajay0511/Ajay0511.github.io/blob/master/Webp.net-resizeimage.png)](https://www.linkedin.com/in/ajay-arora-b082651a6/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![kaggle](https://github.com/Ajay0511/Ajay0511.github.io/blob/master/kaggle.png)](https://www.kaggle.com/Ajay0511)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![mail](https://github.com/Ajay0511/Ajay0511.github.io/blob/master/m1.png)](mailto:aroraajay0511@gmail.com)
-
+</p>
 
 
 ### Hey there 👋 Glad to see you here!!
