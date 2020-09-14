@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->er. 
 **I am Ajay Arora. My main interest lies in Machine Learning,Neural Networks and Computer vision.**
-* :star: I'm currently engaged with Machine learning projects including :-
+* :star: I'm currently engaged with **Machine learning projects** including :-
   1. Prediction Algorithms
   2. Visualization Plots
   3. Convolution Networks
-  4. Artifical Neural Networks
+  4. Artificial Neural Networks
   5. OpenCV
-* :book: I'm currently learning best practices through courses and research papers.
-* :question: Ask me about Machine learning ,Deep Learning and OpenCV.
+* :book: I'm currently learning **best practices for ML** through **courses** and **research papers**.
+* : :two_men_holding_hands: I'm looking to colloborate on any **Machine learning** project.
+* :question: Ask me about **Machine learning** ,**Neural Networks** and **OpenCV**.
 * :computer: Reach me at :-
     * Linkedin:boom: :- https://www.linkedin.com/in/ajay-arora-b082651a6/
     * Gmail:email: :- aroraajay0511@gmail.com
