@@ -1,32 +1,26 @@
+# Ajay Arora
+[![linkedin](https://github.com/Ajay0511/Ajay0511.github.io/blob/master/Webp.net-resizeimage.png)](https://www.linkedin.com/in/ajay-arora-b082651a6/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![kaggle](https://github.com/Ajay0511/Ajay0511.github.io/blob/master/kaggle.png)](https://www.kaggle.com/Ajay0511)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![mail](https://github.com/Ajay0511/Ajay0511.github.io/blob/master/m1.png)](mailto:aroraajay0511@gmail.com)
+
+
+
 ### Hey there 👋 Glad to see you here!!
 
-<!--
-**Ajay0511/Ajay0511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->er. 
 **I am Ajay Arora. My main interest lies in Machine Learning,Neural Networks and Computer vision.**
-* :star: I'm currently engaged with **Machine learning projects** including :-
-  1. Prediction Algorithms
-  2. Visualization Plots
-  3. Convolution Networks
-  4. Artificial Neural Networks
-  5. OpenCV
+
+* :star: I'm currently engaged with **Machine learning projects** including Prediction Algorithms, Visualization Plots, Convolution Networks, Artificial Neural Networks and OpenCV.
+
 * :book: I'm currently learning **best practices for ML** through **courses** and **research papers**.
+
 * : :two_men_holding_hands: I'm looking to colloborate on any **Machine learning** project.
+
 * :question: Ask me about **Machine learning** ,**Neural Networks** and **OpenCV**.
+
 * :computer: Reach me at :-
     * Linkedin:boom: :- https://www.linkedin.com/in/ajay-arora-b082651a6/
     * Gmail:email: :- aroraajay0511@gmail.com
+
 * :tv: Other Interests :- Movies and Web Series.
 
 
