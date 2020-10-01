@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://github.com/Ajay0511/Ajay0511.github.io/blob/master/hi.gif" width="400" />
+</p>
+
+
 # Ajay Arora
 
 [![linkedin](https://github.com/Ajay0511/Ajay0511.github.io/blob/master/Webp.net-resizeimage.png)](https://www.linkedin.com/in/ajay-arora-b082651a6/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
