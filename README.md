@@ -24,4 +24,8 @@
 
 * :tv: Other Interests :- Movies and Web Series.
 
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Ajay0511&count_private=true&include_all_commits=true&show_icons=true&title_color=0366d6&icon_color=0366d6&text_color=24292e&bg_color=fff" />
+</p>
+<p><img src="https://komarev.com/ghpvc/?username=Ajay0511" alt="counter" /></p>
 
