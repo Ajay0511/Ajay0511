@@ -1,3 +1,8 @@
+<h3 align="center">
+Hi there 👋, I'm
+<a href="https://Ajay0511.github.io/">Ajay</a>
+</h3>
+
 <p align="center">
 <img src="https://github.com/Ajay0511/Ajay0511.github.io/blob/master/hi.gif" width="400" />
 </p>
@@ -14,7 +19,7 @@
 </p>
 <p><img src="https://komarev.com/ghpvc/?username=Ajay0511" alt="counter" /></p>
 
-### Hey there 👋 Glad to see you here!!
+
 
 **I am Ajay Arora. My main interest lies in Machine Learning,Neural Networks and Computer vision.**
 
