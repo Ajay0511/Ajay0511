@@ -14,7 +14,7 @@ Hi there 👋, I'm
 [![mail](https://github.com/Ajay0511/Ajay0511.github.io/blob/master/m1.png)](mailto:aroraajay0511@gmail.com)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ajay0511&count_private=true&include_all_commits=true&show_icons=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ajay0511&show_icons=true" />
 </p>
 
 <p>
