@@ -15,7 +15,7 @@ Hi there 👋, I'm
 [![mail](https://github.com/Ajay0511/Ajay0511.github.io/blob/master/m1.png)](mailto:aroraajay0511@gmail.com)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ajay0511&count_private=true&include_all_commits=true&show_icons=true&title_color=0366d6&icon_color=0366d6&text_color=24292e&bg_color=fff" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ajay0511&show_icons=true" />
 </p>
 <p><img src="https://komarev.com/ghpvc/?username=Ajay0511" alt="counter" /></p>
 
