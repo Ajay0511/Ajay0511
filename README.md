@@ -53,8 +53,10 @@ Currently working at **SHL India Pvt. Ltd**, delivering **production-grade syste
 ---
 
 ### 💼 Experience Highlights
-
-**Software Engineer — SHL India Pvt. Ltd (Jul 2023 – Present)**  
+**Senior Software Engineer — SHL India Pvt. Ltd (Feb 2026 – Present)**  
+ - Leading and mentoring 4 backend developers to build scalable backend delivery platform.
+ 
+**Software Engineer — SHL India Pvt. Ltd (Jul 2023 – Jan 2026)**  
 - Reduced API response time by **30%** using caching (Memcached / Redis)
 - Designed **asynchronous scoring microservices** (Java & Python) cutting processing time by **67%**
 - Built **Kafka-based centralized logging pipeline**, reducing infra cost by **23%**
