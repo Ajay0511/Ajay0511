@@ -25,7 +25,7 @@ Hi there 👋, I'm
 
 ### 👨‍💻 About Me
 
-Backend Engineer with **4 years of experience** building **scalable, cloud-native microservices and distributed systems** using **Java, Python, and PHP**.  
+Backend Engineer with **around 5 years of experience** building **scalable, cloud-native microservices and distributed systems** using **Java, Python, and PHP**.  
 I specialize in **high-performance backend systems**, **asynchronous processing**, and **event-driven architectures** using **Kafka, AWS, and Elasticsearch**.
 
 Currently working at **SHL India Pvt. Ltd**, delivering **production-grade systems** that improve performance, scalability, and cost efficiency.
